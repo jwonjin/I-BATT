@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "I-BATT v1.5",
+  "short_name": "I-BATT",
+  "description": "I-BATT v1.5 aircraft maintenance terminology learning",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15275f",
+  "theme_color": "#15275f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
